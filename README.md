@@ -1,2 +1,2 @@
-# Stock-Price
-# Stock-Price
+# Simple Stock Price App
+
